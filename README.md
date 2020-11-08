@@ -2,7 +2,7 @@
 
 It's just that...
 
-![alt text](https://github.com/tcrurav/SVGVanillaJSManipulation/blob/master/img/giphy.gif | width=100)
+![alt text](https://github.com/tcrurav/SVGVanillaJSManipulation/blob/master/img/giphy.gif =100)
 
 ### Prerequisites
 
