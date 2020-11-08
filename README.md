@@ -2,7 +2,7 @@
 
 It's just that...
 
-![alt text](https://github.com/tcrurav/SVGVanillaJSManipulation/blob/master/img/giphy.gif)
+![alt text](https://github.com/tcrurav/SVGVanillaJSManipulation/blob/master/img/giphy.gif){:class="img-responsive"}
 
 ### Prerequisites
 
